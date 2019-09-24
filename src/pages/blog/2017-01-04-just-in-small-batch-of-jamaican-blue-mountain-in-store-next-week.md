@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Edit edit edit
+title: Edit edit edit o edyta edyta
 date: 2017-01-04T15:04:10.000Z
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
