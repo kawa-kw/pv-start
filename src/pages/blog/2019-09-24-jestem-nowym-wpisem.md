@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Jestem nowym wpisem
+title: Jestem nowym wpisemmmmmmmm
 date: 2019-09-24T11:00:39.141Z
 description: meta meta meta meta meta meta meta meta meta meta meta meta koniec.
 featuredpost: false
